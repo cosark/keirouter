@@ -46,6 +46,7 @@ Oh, and it's written in Go. So it's light on memory, boots instantly, ships as o
   - [Everyday commands](#everyday-commands)
   - [Updating](#updating) · [Uninstalling](#uninstalling)
   - [Connect your tools](#connect-your-tools)
+- [One-Click Deploy](#-one-click-deploy)
 - [API Surface](#-api-surface)
 - [Token Savings](#-token-savings-where-the-money-hides)
 - [Smart Routing (Chains)](#-smart-routing-chains)
@@ -309,6 +310,12 @@ In your AI tool of choice, set:
 - **Model:** a provider model like `openai/gpt-4o`, or the name of a fallback [chain](#-smart-routing-chains) you cooked up
 
 That's it. You're routing. The **Endpoints** page has copy-paste snippets for cURL, Python, Node.js, Claude Code and plain environment variables, and the **CLI tools** page can [write the config for you](#-cli-tools-auto-config).
+
+---
+
+## 🚢 One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/KeiRouter/)
 
 ---
 
